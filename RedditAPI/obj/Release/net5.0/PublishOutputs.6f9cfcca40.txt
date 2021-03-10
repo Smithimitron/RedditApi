@@ -1,0 +1,15 @@
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/appsettings.Development.json
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/appsettings.json
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/RedditAPI.dll
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/RedditAPI.deps.json
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/RedditAPI.runtimeconfig.json
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/RedditAPI.pdb
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/Microsoft.EntityFrameworkCore.dll
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/Microsoft.Extensions.DependencyInjection.dll
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/borpus/Projects/RedditApi/RedditAPI/bin/Release/net5.0/publish/System.Diagnostics.DiagnosticSource.dll
